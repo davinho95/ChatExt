@@ -1,0 +1,9 @@
+.vscode/*
+*.code-workspace
+*.app
+.altemplates/*
+.alcache/*
+.altestrunner
+*.json
+Translations/*.g.xlf
+
