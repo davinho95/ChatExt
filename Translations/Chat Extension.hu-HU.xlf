@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="hu-HU" original="Chat Extension">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1532563610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Block User</source>
+          <target state="translated">Letiltott felhasználó</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Block User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1532563610 - Field 3826613488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked Full Name</source>
+          <target state="translated">Letiltott neve</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Block User - Field Blocked Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1532563610 - Field 2071981218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked User Name</source>
+          <target state="translated">Letiltott felhasználónév</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Block User - Field Blocked User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1532563610 - Field 2981864456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Name</source>
+          <target state="translated">Teljes név</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Block User - Field Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1532563610 - Field 129688762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="translated">Felhasználónév</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Block User - Field User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 169043160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Favourites</source>
+          <target state="translated">Kedvencek</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Favourites - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 169043160 - Field 3323073535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favourite Name</source>
+          <target state="translated">Kedvenc neve</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Favourites - Field Favourite Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 169043160 - Field 1399236513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favourite User Name</source>
+          <target state="translated">Kedvenc felhasználóneve</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Favourites - Field Favourite User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 169043160 - Field 129688762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="translated">Felhasználónév</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Favourites - Field User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Message</source>
+          <target state="translated">Üzenet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target state="translated">ID</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 1529241150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="translated">Üzenet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Message Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 837040209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read at</source>
+          <target state="translated">Olvasva</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Read at - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 3898547102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read by Recipient</source>
+          <target state="translated">Olvasta</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Read by Recipient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 1928442592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiver ID</source>
+          <target state="translated">Fogadó azonosítója</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Receiver ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 4160783946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sender ID</source>
+          <target state="translated">Küldő azonosítója</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Sender ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3182332287 - Field 767110155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent at</source>
+          <target state="translated">Küldve</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat Message - Field Sent at - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 918129849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat User</source>
+          <target state="translated">Chat felhasználó</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 918129849 - Field 3920084379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available</source>
+          <target state="translated">Elérhető</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat User - Field Available - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 918129849 - Field 2981864456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Name</source>
+          <target state="translated">Teljes név</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat User - Field Full Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 918129849 - Field 129688762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="translated">Felhasználó név</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Chat User - Field User Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1499310010 - Method 3449008377 - NamedType 2624471617" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sending messages to %1 user has been blocked.</source>
+          <target state="translated">Üzenet küldés %1 felhasználónak tiltva lett.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChatHandler - Method CheckSenderIsBlocked - NamedType SendingMessageIsBlockedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1499310010 - Method 2397150227 - NamedType 3677562428" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have reached the maximum daily message count.</source>
+          <target state="translated">Elérte a napi maximálisan kiküldhető üzenetek számát.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChatHandler - Method CheckUserMessageLimit - NamedType MessageLimitReachedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1499310010 - Method 3696422348 - NamedType 3223026088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Empty message cannot be sent.</source>
+          <target state="translated">Üres üzenetet nem lehet küldeni.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChatHandler - Method OpenDialogAndSendMessage - NamedType EmptyMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1499310010 - Method 4145291212 - NamedType 3871721722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have received a new message from %1</source>
+          <target state="translated">Új üzenete érkezett %1 felhasználótól.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ChatHandler - Method SendEmailToRecipient - NamedType SubjectLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3381763671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Block List</source>
+          <target state="translated">Tiltott felhasználók lista</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Block List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 169043160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Favourites</source>
+          <target state="translated">Kedvencek</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Favourites - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 169043160 - Action 407518620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Message</source>
+          <target state="translated">Üzenet küldése</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Favourites - Action OpenMessageDialogAndSend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 169043160 - Action 1344583993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove from favourites</source>
+          <target state="translated">Kedvencekből eltávolítás</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Favourites - Action RemoveFavourite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3577315650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat Main Menu</source>
+          <target state="translated">Chat főmenü</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Main Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3577315650 - Action 1038457213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked Users</source>
+          <target state="translated">Letiltott felhasználók</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Main Page - Action BlockList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3577315650 - Action 1977682832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Messages</source>
+          <target state="translated">Üzeneteim</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Main Page - Action MyMessages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3577315650 - Action 535104985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="translated">Üzenet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat Main Page - Action OpenMessageDialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 918129849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat User</source>
+          <target state="translated">Chat felhasználó</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1525902895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chat User List</source>
+          <target state="translated">Chat felhasználók lista</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat User List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1525902895 - Action 87091212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add to favourites</source>
+          <target state="translated">Kedvencekhez ad</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat User List - Action AddToFavourites - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1525902895 - Action 407518620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Message</source>
+          <target state="translated">Üzenet küldése</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Chat User List - Action OpenMessageDialogAndSend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2213624973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Write a message...</source>
+          <target state="translated">Írjon egy üzenetet...</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Message Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2213624973 - Control 743942932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Email</source>
+          <target state="translated">Email küldése</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Message Dialog - Control SendEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2856652968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Messages</source>
+          <target state="translated">Üzeneteim</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Messages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2856652968 - Control 3979560174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received</source>
+          <target state="translated">Kapott üzenet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Messages - Control MessageContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2856652968 - Control 1555561521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent</source>
+          <target state="translated">Küldött üzenet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Messages - Control MessageSent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2856652968 - Action 186414097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Message</source>
+          <target state="translated">Üzenet küldése</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My Messages - Action SendMessage - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

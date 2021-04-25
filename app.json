@@ -1,0 +1,26 @@
+{
+    "id": "f436ff1b-b82b-4ce1-975c-ee0abd2a4467",
+    "name": "Chat Extension",
+    "publisher": "David Istvan",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "features": ["TranslationFile"],
+    "screenshots": [],
+    "platform": "17.0.0.0",
+    "application": "17.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50100
+      }
+    ],
+    "showMyCode": true,
+    "runtime": "6.0",
+    "target": "Cloud"
+  }
