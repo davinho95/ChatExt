@@ -32,6 +32,10 @@ table 50003 "Chat Block User"
             CalcFormula = lookup(User."Full Name" where("User Name" = field("User Name")));
             Editable = false;
         }
+        field(5; TestISD; Blob)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
     keys
     {
